@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">practice6</string>
+    <string name="drawer_open">Открыть выдвижную панель</string>
+    <string name="drawer_close">Закрыть выдвижную панель</string>
+    <string name="breed_image">Breed Image</string>
+    <string name="_1">Кнопка 1</string>
+    <string name="_2">Кнопка 2</string>
+    <string name="_3">Кнопка 3</string>
+    <string name="big_b">Большие породы</string>
+    <string name="medium_b">Средние породы</string>
+    <string name="small_b">Маленькие породы</string>
+    <string name="go_next_act">Переход на следующую активность</string>
+</resources>

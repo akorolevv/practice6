@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_large_breeds"
+            android:title="@string/big_b" />
+        <item
+            android:id="@+id/nav_medium_breeds"
+            android:title="@string/medium_b" />
+        <item
+            android:id="@+id/nav_small_breeds"
+            android:title="@string/small_b" />
+        <item
+            android:id="@+id/nav_next_activity"
+            android:title="@string/go_next_act" />
+    </group>
+</menu>
